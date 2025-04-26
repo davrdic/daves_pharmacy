@@ -1,0 +1,11 @@
+#Build folders
+/build/
+/.vscode/
+
+#Compiled binary files
+*.out
+*.o
+*.so
+
+#Backup files
+*~
